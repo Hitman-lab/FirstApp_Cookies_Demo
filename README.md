@@ -9,15 +9,22 @@ In this project, we are creating 3 links: login, logout and profile. User can't 
 ![image](https://user-images.githubusercontent.com/52199294/61161908-c17ace00-a523-11e9-8514-07a79bd81caa.png)
 
 
->If we want to visit the PROFILE before login then we need to login first.
+>**If we want to visit the PROFILE before login then we need to login first.**
 
 ![image](https://user-images.githubusercontent.com/52199294/61161924-d3f50780-a523-11e9-8341-8f41772be5ed.png)
 
 
->Once User logged In he/she can visit any where
+>**Once User logged In he/she can visit any where**
 
 ![image](https://user-images.githubusercontent.com/52199294/61161988-0dc60e00-a524-11e9-8cd8-fc0d68601031.png)
 
 
->PROFILE SECTION
+
+>**PROFILE SECTION**
+
 ![image](https://user-images.githubusercontent.com/52199294/61162010-2f26fa00-a524-11e9-9891-83582bd2bbda.png)
+
+
+>**LOGOUT PAGE**
+
+![image](https://user-images.githubusercontent.com/52199294/61162073-7dd49400-a524-11e9-8220-b1026d1249df.png)
