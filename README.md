@@ -32,3 +32,14 @@ In this project, we are creating 3 links: login, logout and profile. User can't 
 
 
 ![image](https://user-images.githubusercontent.com/52199294/61162135-d146e200-a524-11e9-8f09-9aa278a2d9a2.png)
+
+
+**Search Box**
+
+![image](https://user-images.githubusercontent.com/52199294/61162182-0fdc9c80-a525-11e9-83aa-2ff007b8e610.png)
+
+
+**Search Box Redirection**
+
+
+![image](https://user-images.githubusercontent.com/52199294/61162200-2be03e00-a525-11e9-8d3d-0948d1c5579c.png)
