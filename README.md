@@ -4,5 +4,9 @@ In this project, we are creating 3 links: login, logout and profile. User can't 
 >OUTPUT 
 
 **First Page**
+
 ![image](https://user-images.githubusercontent.com/52199294/61161787-1f5ae600-a523-11e9-8813-6a2919fd07e6.png)
 
+>If we want to visit the PROFILE before login then we need to login first
+
+![image](https://user-images.githubusercontent.com/52199294/61161833-5cbf7380-a523-11e9-9c2b-942fc0fc6619.png)
