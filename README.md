@@ -3,7 +3,6 @@ In this project, we are creating 3 links: login, logout and profile. User can't 
 
 >**UI -> BOOTSTRAP - HTML - CSS**
 
->OUTPUT 
 
 **First Page**
 
